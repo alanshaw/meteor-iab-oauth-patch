@@ -1,4 +1,4 @@
-# inappbrowser-oauth-patch
+# iab-oauth-patch
 
 Meteor's OAuth flow currently only works with popups. PhoneGap does not handle this very well. Using the InAppBrowser plugin we can load the OAuth popup into this child browser.
 
