@@ -6,5 +6,5 @@ Package.on_use(function (api) {
 	api.use(["logging", "oauth"], "server")
 	api.use(["oauth", "accounts-oauth"], "client")
 	api.add_files("patch_window_open.js", "client")
-	api.add_files("patch_render_oauth_response.js", "server")
+	api.add_files("patch_render_oauth_results.js", "server")
 })
