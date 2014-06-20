@@ -1,0 +1,8 @@
+{
+	"name": "iab-oauth-patch",
+	"description": "A fix for Meteor OAuth with InAppBrowser",
+	"homepage": "https://github.com/alanshaw/meteor-iab-oauth-patch",
+	"author": "Alan Shaw (github.com/alanshaw)",
+	"version": "0.0.0",
+	"git": "ssh://git@github.com/alanshaw/meteor-iab-oauth-patch.git"
+}
